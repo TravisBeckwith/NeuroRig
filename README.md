@@ -1,4 +1,4 @@
-# NeuroRig (WSL2 Optimized)
+# NeuroRig (WSL2 Optimized) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20088305.svg)](https://doi.org/10.5281/zenodo.20088305)
 
 A lightweight Python diagnostic tool designed for neuroimaging researchers to assess if their hardware can handle intensive MRI processing pipelines (e.g., FreeSurfer, fMRIPrep, FSL, AFNI).
 
