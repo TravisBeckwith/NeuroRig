@@ -30,7 +30,7 @@ MRI processing is resource-heavy. NeuroRig evaluates:
 
    For the extended version with disk I/O benchmarking:
    ```bash
-   python neurorig_v2.py
+   python NeuroRig_v2.py
    ```
 
 ## Interpreting Results
