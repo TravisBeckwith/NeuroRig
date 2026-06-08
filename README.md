@@ -14,7 +14,7 @@ MRI processing is resource-heavy. NeuroRig evaluates:
 ## Installation & Usage
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/neurorig.git
+   git clone https://github.com/TravisBeckwith/neurorig.git
    cd neurorig
    ```
 
